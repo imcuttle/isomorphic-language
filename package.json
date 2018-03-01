@@ -1,0 +1,28 @@
+{
+  "name": "isomorphic-language",
+  "version": "0.0.0",
+  "description": "Get the local language isomorphically",
+  "main": "node.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imcuttle",
+    "isomorphic-language"
+  ],
+  "author": "imcuttle",
+  "license": "MIT",
+  "dependencies": {
+    "os-locale": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcuttle/isomorphic-language.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imcuttle/isomorphic-language/issues"
+  },
+  "homepage": "https://github.com/imcuttle/isomorphic-language#readme"
+}
